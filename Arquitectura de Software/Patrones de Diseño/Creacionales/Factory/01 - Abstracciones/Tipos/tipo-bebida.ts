@@ -1,0 +1,1 @@
+export type TipoBebida = "Cafe" | "Té" | "Jugo" | "Agua";
